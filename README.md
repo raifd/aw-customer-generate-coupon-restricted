@@ -39,7 +39,7 @@ AutomateWoo’s default coupon variable doesn't include built-in support for ema
 
 ## 🧠 Credits
 
-Developed by [Raif](https://github.com/raifd)  
+Developed by [Raif Deari](https://github.com/raifd)  
 Built with the help of [ChatGPT](https://openai.com/chatgpt) for prototyping, debugging, and WooCommerce integration guidance.
 
 ## 📄 License
