@@ -1,0 +1,9 @@
+*** AW Customer Generate Coupon Restricted ***
+
+2025-07-23 - version 1.0.6
+* New - Add changelog file
+* Fix - Defensive checks before loading code.
+* Fix - Coding standards.
+
+2025-07-23 - version 1.0.5
+* Initial release.

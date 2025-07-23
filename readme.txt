@@ -38,5 +38,10 @@ This plugin was developed by Raif Deari with the help of AI (ChatGPT) for debugg
 
 == Changelog ==
 
+= 1.0.6 =
+* New - Add changelog file
+* Fix - Defensive checks before loading code.
+* Fix - Coding standards.
+
 = 1.0.5 =
 * Initial release with email-restricted coupon generation
