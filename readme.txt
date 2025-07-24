@@ -39,8 +39,3 @@ This plugin was developed by Raif Deari with the help of AI (ChatGPT) for debugg
 1. Upload the plugin folder to `/wp-content/plugins/`
 2. Activate the plugin through the WordPress admin
 3. Use the new variable in your AutomateWoo workflows
-
-== Changelog ==
-
-= 1.0.5 =
-* Initial release with email-restricted coupon generation
