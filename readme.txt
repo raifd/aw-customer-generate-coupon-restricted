@@ -3,7 +3,7 @@ Contributors: Raif Deari
 Tags: woocommerce, automatewoo, coupons, email restriction
 Requires at least: 6.0
 Tested up to: 6.8
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -17,6 +17,10 @@ AutomateWoo’s built-in coupon variable is powerful, but doesn’t support emai
 `{{ customer.generate_coupon_restricted }}`
 
 When used in a workflow (such as post-purchase or review request automations), it allows you to optionally limit coupon redemption to the customer’s email address.
+
+== Compatibility ==
+
+This plugin is compatible with WooCommerce High-Performance Order Storage (HPOS).
 
 == Features ==
 
