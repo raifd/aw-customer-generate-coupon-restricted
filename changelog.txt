@@ -1,9 +1,10 @@
 *** AW Customer Generate Coupon Restricted ***
 
-2025-07-23 - version 1.0.6
-* New - Add changelog file
-* Fix - Defensive checks before loading code.
-* Fix - Coding standards.
+= 1.0.6 - 2025-07-23 =
+* Added a dedicated changelog file.
+* Improved stability with additional defensive checks before loading logic.
+* Brought codebase up to WordPress coding standards.
+* Declared HPOS Compatibility
 
-2025-07-23 - version 1.0.5
+= 1.0.5 - 2025-07-23 =
 * Initial release.
